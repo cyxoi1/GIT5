@@ -19,7 +19,7 @@ public class main6 {
                 result = numbers[i];
         System.out.println("The max value is " + result);
 
-
+//lhkgljhgljg
     }
 
 }
